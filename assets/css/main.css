@@ -21,7 +21,7 @@
 :root {
   --color-default: #2b180d;
   --color-primary: rgb(0, 9, 128);
-  --color-secondary: rgba(247, 62, 30, 0.671);
+  --color-secondary: rgba(247, 62, 30, 0.918);
 }
 
 /* Smooth scroll behavior */
@@ -514,7 +514,7 @@ section {
 .hero {
   width: 100%;
   min-height: 100vh;
-  background: url("../img/osegs/osegs.jpg") top center;
+  background: url("../img/car.jpg") top center;
   background-size: cover;
   position: relative;
   padding: 120px 0;

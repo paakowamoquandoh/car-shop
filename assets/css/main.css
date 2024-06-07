@@ -20,8 +20,8 @@
 /* Colors */
 :root {
   --color-default: #2b180d;
-  --color-primary: teal;
-  --color-secondary: orange;
+  --color-primary: rgb(0, 9, 128);
+  --color-secondary: rgba(247, 62, 30, 0.671);
 }
 
 /* Smooth scroll behavior */

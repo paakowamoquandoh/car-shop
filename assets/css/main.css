@@ -45,17 +45,17 @@ body {
 
 .welcomeText{
   color: #00019a;
-  font-weight: bold;
   text-align: center;
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 2rem;
+  font-size: 1.8rem;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .text-main {
   color: white;
   font-family: "Goudy Bookletter 1911", sans-serif;
-  font-size: 18px;
+  font-size: 1rem;
   text-align: center;
+  font-weight: bold;
 }
 
 #social-buttons img {

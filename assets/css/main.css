@@ -35,13 +35,20 @@ body {
   align-self: center;
 }
 
+.sitetext{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
+
 .welcomeText{
   color: #00019a;
   font-weight: bold;
   text-align: center;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 2rem;
-  margin-bottom: 1.5rem;
 }
 
 .text-main {
